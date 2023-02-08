@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: TG908/fork-sync@v1.6.3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: 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
           owner: 6dylan6
           head: main 
           base: main
